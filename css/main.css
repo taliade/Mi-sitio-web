@@ -24,6 +24,8 @@ a{
     color:black;
 
 }
+
+
 .home-body{
     top: 0;
     bottom: 0;
@@ -367,3 +369,14 @@ footer p{
     padding: 0 5px;
 }
 
+.list-items{
+
+        list-style: none;
+        font-size: 20px;
+        align-items: center;
+
+}
+
+li :hover{
+    background-color: var(--color-pink);
+}
